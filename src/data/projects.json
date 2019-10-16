@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Transcriboid",
+    "dateCreated": "Summer 2019",
+    "languagesUsed": ["React", "Javascript", "Python", "Flask"],
+    "description": "Transcriboid is a music theory web app that generates randomly generates melodies, and challenges the user to deduce the notes using only their ears. I initially began this project as a small python script that would take in midi files and generate rudimentary melodies, but only later did I have the inspiration to turn it into a full fledged project. I wrapped the script in a Flask backend, and created a RESTful API along with a React frontend, and the project is now hosted on Heroku.",
+    "image": "./images/transcriboidimage.png"
+  },
+  {
+    "title": "Reservations.nu",
+    "dateCreated": "Spring 2019",
+    "languagesUsed": ["Bootstrap", "HTML & CSS", "Elixir", "MySQL"],
+    "description": "Reservations.nu is a web app designed to solve a problem at NEU, which is finding quiet spaces to study, whether alone or with a group. The website solves this problem by showing a list of all the academic buildings on campus, and displays whether there is a class or an ongoing reservation currently taking place in it or not, and allows the user to reserve it themselves if it is free. This was a group project for a database class, and I primarily focused on the development of the frontend and the design of the database schema, as I am not familiar with Elixir.",
+    "image": "./images/transcriboidimage.png"
+  },
+  {
+    "title": "Todo App",
+    "dateCreated": "Winter 2019",
+    "languagesUsed": ["React Native", "Javascript"],
+    "description": "This project is a school planner mobile app, that shows you your class schedule and upcoming assignments. This project was mostly created to learn how to use the React framework, but it also showcases some design skills.",
+    "image": "./images/transcriboidimage.png"
+  }
+]

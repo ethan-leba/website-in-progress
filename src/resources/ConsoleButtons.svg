@@ -1,0 +1,5 @@
+<svg id="Component" xmlns="http://www.w3.org/2000/svg" width="52" height="12" viewBox="0 0 52 12">
+  <path id="Path_6" data-name="Path 6" d="M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" fill="#f26666"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="6" cy="6" r="6" transform="translate(20)" fill="#e5cd68"/>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="6" cy="6" r="6" transform="translate(40)" fill="#5fd144"/>
+</svg>
